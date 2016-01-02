@@ -1,1 +1,2 @@
-master conflict file
+conflict file
+
